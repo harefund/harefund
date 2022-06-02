@@ -13,3 +13,4 @@ The use of funds must initiate proposals to explain the purpose of the use of fu
 After the proposal is successfully voted by the holders of the gnosis multi currency governance chain, they can vote through the normal voting process.
 
 
+
