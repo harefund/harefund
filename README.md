@@ -11,3 +11,4 @@ At present, the multi sign treasury of Gnosis safe has no governance function, a
 The use of funds must initiate proposals to explain the purpose of the use of funds
 #### On chain voting
 After the proposal is successfully voted by the holders of the gnosis multi currency governance chain, they can vote through the normal voting process.
+
