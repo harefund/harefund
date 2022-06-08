@@ -84,4 +84,3 @@ contract GPv2VaultRelayer {
         vault.fastTransferFromAccount(feeTransfer, msg.sender);
     }
 }
-
