@@ -109,4 +109,3 @@ contract GPv2AllowListAuthentication is
         return solvers[prospectiveSolver];
     }
 }
-
