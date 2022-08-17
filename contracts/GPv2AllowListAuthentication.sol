@@ -110,4 +110,3 @@ contract GPv2AllowListAuthentication is
     }
 }
 
-
